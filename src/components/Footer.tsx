@@ -23,11 +23,11 @@ const Footer = () => {
                                             <img className="img-object" src={logo} alt="Logo" />
                                         </div>
                                     </div>
-                                    <p className="infoEu text-justify-foot">EUCHOICE là một công ty chuyên cung cấp và phân phối các sản phẩm Châu Âu chính ngạch, có hóa đơn, chứng từ sản phẩm. Phục vụ nhu cầu cao cấp, dịch vụ nhanh chóng & tin cậy nhằm mang đến cho bạn những sự lựa chọn thời thượng & độc đáo nhất.</p>
+                                    <p className="infoEu text-justify-foot">LUBYBOOK nhận đặt hàng trực tuyến và giao hàng tận nơi hoặc nhận hàng tại tất cả Hệ Thống Nhà Sách Lucy trên toàn quốc</p>
                                     <div className="infoEu connect-foot uppercase-foot text-title-foot"><h3 ><b></b><span >KẾT NỐI VỚI CHÚNG TÔI</span><b></b></h3></div>
-                                    <a href="https://www.facebook.com/euchoicehangnhapkhau/" className="fa fa-facebook"></a>
+                                    <a href="https://www.facebook.com/ttphthao811/" className="fa fa-facebook"></a>
                                     <a href="#" className="fa fa-youtube"></a>
-                                    <a href="https://www.instagram.com/eu.choice/" className="fa fa-instagram"></a>
+                                    <a href="https://www.instagram.com/ttphthao_/" className="fa fa-instagram"></a>
                                     <div>
                                         <img className="bn46" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="bn45" />
                                         <img className="bn46" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/2560px-Google_Play_Store_badge_EN.svg.png" alt="bn45" />
@@ -38,31 +38,16 @@ const Footer = () => {
                         <Col className="col" md={6} sm={12} xs={24}>
                             <div className="col-inner">
                                 <div className="box">
-                                    <div className="infoEu uppercase-foot text-title-foot"><h3 ><b></b><span >Về EUCHOICE</span><b></b></h3></div>
+                                    <div className="infoEu uppercase-foot text-title-foot"><h3 ><b></b><span >Về LUCYBOOK</span><b></b></h3></div>
                                     <div className="text-line-foot">
-                                        <a href="/helper#about-euchoice">
-                                            <span className="infoEu capitalize-foot">
-                                                Giới thiệu EUCHOICE
-                                            </span>
-                                        </a>
+                                        <span className="infoEu capitalize-foot">
+                                            Giới thiệu LUCYBOOK
+                                        </span>
                                     </div>
                                     <div className="text-line-foot">
-                                        <a href="/helper#privacy">
-                                            <span className="infoEu capitalize-foot">
-                                                Chính sách bảo mật và lưu trữ thông tin
-                                            </span>
-                                        </a>
-                                    </div>
-                                    <div>
-                                        <a href="http://online.gov.vn/Home/WebDetails/85990" target="_blank" rel="noopener">
-                                            <img
-                                                src={logoSaleNoti}
-                                                alt=""
-                                                data-ll-status="loaded"
-                                                className="gov-vn"
-                                            >
-                                            </img>
-                                        </a>
+                                        <span className="infoEu capitalize-foot">
+                                            Chính sách bảo mật và lưu trữ thông tin
+                                        </span>
                                     </div>
                                 </div>
                             </div>
@@ -73,32 +58,24 @@ const Footer = () => {
                                     <div className="infoEu uppercase-foot text-title-foot"><h3><b></b><span >Hỗ trợ khách hàng</span><b></b></h3></div>
                                     <div>
                                         <div className="text-line-foot">
-                                            <a href="/helper#shopping-guide">
-                                                <span className="infoEu capitalize-foot">
-                                                    Hướng dẫn mua hàng
-                                                </span>
-                                            </a>
+                                            <span className="infoEu capitalize-foot">
+                                                Hướng dẫn mua hàng
+                                            </span>
                                         </div>
                                         <div className="text-line-foot">
-                                            <a href="/helper#payment-methods">
-                                                <span className="infoEu capitalize-foot">
-                                                    Phương thức thanh toán
-                                                </span>
-                                            </a>
+                                            <span className="infoEu capitalize-foot">
+                                                Phương thức thanh toán
+                                            </span>
                                         </div>
                                         <div className="text-line-foot">
-                                            <a href="/helper#shipping-policy">
-                                                <span className="infoEu capitalize-foot">
-                                                    Chính sách vận chuyển
-                                                </span>
-                                            </a>
+                                            <span className="infoEu capitalize-foot">
+                                                Chính sách vận chuyển
+                                            </span>
                                         </div>
                                         <div className="text-line-foot">
-                                            <a href="/helper#refund-policy">
-                                                <span className="infoEu capitalize-foot">
-                                                    Chính sách đổi trả và hoàn tiền
-                                                </span>
-                                            </a>
+                                            <span className="infoEu capitalize-foot">
+                                                Chính sách đổi trả và hoàn tiền
+                                            </span>
                                         </div>
                                     </div>
                                     <div className="z1zvpoXspE">
@@ -133,14 +110,14 @@ const Footer = () => {
                             <div className="col-inner">
                                 <div className="box">
                                     <div className="infoEu uppercase-foot text-title-foot"><h3 ><b></b><span >Liên Hệ</span><b></b></h3></div>
-                                    <p className="infoEu text-justify-foot"><strong>Công ty TNHH XNK Hữu Cơ Việt Nam</strong></p>
+                                    <p className="infoEu text-justify-foot"><strong>Hệ Thống Nhà Sách Lucy</strong></p>
                                     <p className="infoEu capitalize-foot"><strong>Địa chỉ chúng tôi</strong></p>
-                                    <p className="infoEu text-justify-foot">Số 122 Trần Đại Nghĩa, Phường Đồng Tâm, Quận Hai Bà Trưng, Thành phố Hà Nội</p>
+                                    <p className="infoEu text-justify-foot">Số 315 Trường Chinh, Phường Khương Mai, Quận Thanh Xuân, Thành phố Hà Nội</p>
                                     <p className="infoEu capitalize-foot"><strong>Emai chúng tôi</strong></p>
-                                    <p className="infoEu">lienhe@euchoice.vn</p>
+                                    <p className="infoEu">lienhe@lucybook.vn</p>
                                     <p className="infoEu capitalize-foot"><strong>Số điện thoại</strong></p>
-                                    <p className="infoEu">0888283335</p>
-                                    <p className="infoEu capitalize-foot"><strong>Mã Số Thuế</strong>: 0107700928</p>
+                                    <p className="infoEu">0394506681</p>
+                                    <p className="infoEu capitalize-foot"><strong>Mã Số Thuế</strong>: 0123456789</p>
                                     <p className="infoEu capitalize-foot"><strong>Ngày hoạt động</strong>: 10/01/2017</p>
                                     <p className="infoEu capitalize-foot"><strong>Nơi cấp</strong>: Hà Nội </p>
                                 </div>
@@ -151,7 +128,7 @@ const Footer = () => {
                 <div className="divider-footer">
                 </div>
                 <div className="copyright">
-                    <strong>© Bản quyền thuộc về Công Ty TNHH XNK Hữu Cơ Việt Nam</strong>
+                    <strong>© Bản quyền thuộc về Nhà Sách Lucy</strong>
                 </div>
             </section>
         </footer >

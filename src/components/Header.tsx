@@ -147,9 +147,9 @@ const Header = (props: HeaderPagePropsInf) => {
             <div className="above_header d-flex">
                 <div className="above_header_elm">
                     <div className="above_header_left_content d-flex">
-                        <span className="above_header_mail_icon"><IoIosMail /></span><span className="above_header_text">LIENHE@EUCHOICE.VN</span>
+                        <span className="above_header_mail_icon"><IoIosMail /></span><span className="above_header_text">LIENHE@LUCYBOOK.VN</span>
                         <div className="above_header_vertical_divide"></div>
-                        <span className="above_header_phone_icon"><FaPhoneAlt /></span><span className="above_header_text">0888283335</span>
+                        <span className="above_header_phone_icon"><FaPhoneAlt /></span><span className="above_header_text">0394506681</span>
                     </div>
                     <div className="above_header_center_content above_header_welcome">
                         {t('welcome')}
@@ -222,7 +222,7 @@ const Header = (props: HeaderPagePropsInf) => {
                                         <BiPhoneCall className="cart_icon" />
                                         <div className="delivery-detail">
                                             <span className="deli-span">24/7 Delivery</span>
-                                            <span className="deli-phone-span">088.828.3335</span>
+                                            <span className="deli-phone-span">039.450.6681</span>
                                         </div>
                                     </div>
                                 </div>

@@ -131,9 +131,6 @@ export default function Home(props: any) {
             <img src={`${baseUrl}image/${props.listBannerPos[0].image}`}></img>
             <div className='div-text-detail-side-wrapper'>
               <div>
-                <h2>
-                  {props.listBannerPos[0].name}
-                </h2>
                 <Button
                   className='see-all-btn'
                   onClick={() => { onClickProductPage() }}
@@ -147,9 +144,6 @@ export default function Home(props: any) {
             <img src={`${baseUrl}image/${props.listBannerPos[1].image}`}></img>
             <div className='div-text-detail-side-wrapper'>
               <div>
-                <h2>
-                  {props.listBannerPos[1].name}
-                </h2>
                 <Button
                   className='see-all-btn'
                   onClick={() => { onClickProductPage() }}
@@ -395,7 +389,7 @@ export default function Home(props: any) {
                 <div className='two-col-home'>
                   <div className='div-img-col-home'><img className='img-col-home' src={support} alt='support'></img></div>
                   <div className='div-col-home'>
-                    <p className='p-col-home'>Hotline: 0888283335</p>
+                    <p className='p-col-home'>Hotline: 0394506681</p>
                     <span className='span-col-home'>Hỗ trợ trực tiếp nhanh chóng</span>
                   </div>
                 </div>
