@@ -27,20 +27,15 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/order": [
+    "/blogs": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/order.js"
+      "static/chunks/pages/blogs.js"
     ],
     "/product": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/product.js"
-    ],
-    "/product/[id]": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/product/[id].js"
     ],
     "/user/purchase": [
       "static/chunks/webpack.js",
